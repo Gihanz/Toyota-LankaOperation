@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4.4/mail-1.4.4.jar" sourcepath="M2_REPO/javax/mail/mail/1.4.4/mail-1.4.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar" sourcepath="M2_REPO/javax/servlet/servlet-api/2.3/servlet-api-2.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="M2_REPO/FileNet/Jace/5.2.1/Jace-5.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/FileNet/pe/5.2.1/pe-5.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javaapi/javaapi/1/javaapi-1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar" sourcepath="M2_REPO/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-configuration/commons-configuration/1.2/commons-configuration-1.2.jar" sourcepath="M2_REPO/commons-configuration/commons-configuration/1.2/commons-configuration-1.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.1/commons-lang-2.1.jar" sourcepath="M2_REPO/commons-lang/commons-lang/2.1/commons-lang-2.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.4/dom4j-1.4.jar" sourcepath="M2_REPO/dom4j/dom4j/1.4/dom4j-1.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jaxen/jaxen/1.0-FCS/jaxen-1.0-FCS.jar" sourcepath="M2_REPO/jaxen/jaxen/1.0-FCS/jaxen-1.0-FCS-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar" sourcepath="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/msv/msv/20020414/msv-20020414.jar" sourcepath="M2_REPO/msv/msv/20020414/msv-20020414-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar" sourcepath="M2_REPO/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/isorelax/isorelax/20020414/isorelax-20020414.jar" sourcepath="M2_REPO/isorelax/isorelax/20020414/isorelax-20020414-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging-api/1.0.4/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-digester/commons-digester/1.6/commons-digester-1.6.jar" sourcepath="M2_REPO/commons-digester/commons-digester/1.6/commons-digester-1.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.6/commons-beanutils-1.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0/commons-logging-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils-core/1.7.0/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.3/commons-codec-1.3.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xalan/xalan/2.7.0/xalan-2.7.0.jar" sourcepath="M2_REPO/xalan/xalan/2.7.0/xalan-2.7.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.6/commons-io-2.6.jar" sourcepath="M2_REPO/commons-io/commons-io/2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/CrystalCommon2/CrystalCommon2/2.0/CrystalCommon2-2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/CrystalReportsRuntime/CrystalReportsRuntime/1.0/CrystalReportsRuntime-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/DatabaseConnectors/DatabaseConnectors/1.0/DatabaseConnectors-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/icu4j/icu4j/1.0/icu4j-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/JDBInterface/JDBInterface/1.0/JDBInterface-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/keycodeDecoder/keycodeDecoder/1.0/keycodeDecoder-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/logging/logging/1.0/logging-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/QueryBuilder/QueryBuilder/1.0/QueryBuilder-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ojdbc6/ojdbc6/1.0/ojdbc6-1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
